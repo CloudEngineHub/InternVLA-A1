@@ -2,7 +2,7 @@
 
 ![InternVLA-A1.5 teaser](assets/teaser.png)
 
-[![Project Page]([https://img.shields.io/badge/Code-GitHub-black?logo=github](https://img.shields.io/badge/Website-Pages-blue.svg))](https://internrobotics.github.io/internvla-a15.github.io)
+[![Project Page](https://img.shields.io/badge/Website-Pages-blue.svg)](https://internrobotics.github.io/internvla-a15.github.io)
 [![HuggingFace](https://img.shields.io/badge/Data-HuggingFace-blue?logo=huggingface)](https://huggingface.co/collections/InternRobotics/internvla-a15)
 [![ModelScope](https://img.shields.io/badge/ModelScope-Model-blue?logo=modelscope)](https://www.modelscope.cn/collections/InternRobotics/InternVLA-A15)
 [![License](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](LICENSE)
