@@ -9,8 +9,7 @@ The bundled entry supports the `internvla_a1_5` policy included in this release.
 ```bash
 # Put the DOMINO benchmark source here, or set DOMINO_ROOT=/path/to/DOMINO.
 mkdir -p third_party
-git clone <DOMINO repository> third_party/DOMINO
-
+git clone https://github.com/H-EmbodVis/DOMINO.git third_party/DOMINO
 pip install -r evaluation/DOMINO/requirements.txt
 ```
 

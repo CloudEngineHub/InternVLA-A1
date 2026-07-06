@@ -9,7 +9,7 @@ The code is built and tested with **Python 3.11**, **CUDA 12.8**, and **PyTorch 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/InternRobotics/InternVLA-A1.5.git
+git clone https://github.com/InternRobotics/InternVLA-A-series.git
 cd InternVLA-A1.5
 ```
 
