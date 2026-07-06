@@ -18,7 +18,7 @@ SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 REPO_ROOT="$(cd "${SCRIPT_DIR}/../.." && pwd)"
 
 INFERENCE_BACKEND="${INFERENCE_BACKEND:-standard}"
-PRETRAINED_CKPT="${1:-${PRETRAINED_CKPT:-/mnt/workspace/mahaoxiang/checkpoints/robotwin_abs}}"
+PRETRAINED_CKPT="${1:-${PRETRAINED_CKPT:-InternRobotics/InternVLA-A1.5-RoboTwin}}"
 TASK_CONFIG="${3:-${TASK_CONFIG:-demo_clean}}"
 TASK_IDX="${4:-${TASK_IDX:-44}}"
 OUTPUT_PATH="${2:-${OUTPUT_PATH:-outputs/robotwin/internvla_a1_5/${TASK_CONFIG}/${TASK_IDX}}}"

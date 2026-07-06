@@ -62,7 +62,7 @@ cd ${PROJ_ROOT}
 # 1. policy config
 # Match the local A1.5 checkpoint config.json: type=internvla_a1_5.
 POLICY="internvla_a1_5"
-PRETRAINED_PATH="hxma/InternVLA-A1.5"
+PRETRAINED_PATH="InternRobotics/InternVLA-A1.5-base"
 
 # 2. dataset config
 DATASET_REPO_ID="$(

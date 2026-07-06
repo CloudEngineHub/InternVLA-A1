@@ -63,7 +63,7 @@ cd ${PROJ_ROOT}
 # Match the local A1.5 checkpoint config.json: type=internvla_a1_5.
 POLICY="internvla_a1_5"
 # Local pretrain checkpoint with config.json / train_config.json / stats.json.
-PRETRAINED_PATH="/mnt/shared-storage-user/internvla/Users/mahaoxiang/hf_internvla_a15/internvla_a15_pretrain"
+PRETRAINED_PATH="InternRobotics/InternVLA-A1.5-base"
 # Official Qwen3.5-2B; A1.5 adds FAST action tokens at runtime.
 # The old expanded Qwen3.5-2B-Action path is still compatible.
 VLM_MODEL_PATH="${VLM_MODEL_PATH:-Qwen/Qwen3.5-2B}"
