@@ -18,7 +18,7 @@ Follow the official RoboTwin documentation if your machine needs additional rend
 ## Run
 
 ```bash
-bash evaluation/RoboTwin/eval.sh /path/to/checkpoint outputs/robotwin/internvla_a1_5 demo_clean 0 delta 50
+bash evaluation/RoboTwin/eval.sh /path/to/checkpoint outputs/robotwin/internvla_a1_5 demo_clean 0 abs 50
 ```
 
 Arguments:
